@@ -34,13 +34,13 @@ body {
 	background: #151515;										/* Page background */
 	color: #c385ff;														/* Font color */
 	padding: 150px;													/* Padding between link blocks and edge */
-	font-family: "Hack";	/* Font */
+	font-family: "Menlo";	/* Font */
 	text-shadow: rgba(0,0,0,0.6) 1px 1px 0; /* Text Shadow */
 }
 
 a {
 	color: #c385ff;														/* Link Color */
-	font-size: 16px;												/* Link Size */
+	font-size: 72px;												/* Link Size */
 	text-decoration: none;									/* Remove underlines */
 }
 
